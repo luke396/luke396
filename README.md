@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/luke396/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/luke396/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke396&show_icons=true&theme=synthwave)
+
 
 ![](https://raw.githubusercontent.com/luke396/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/luke396/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke396&show_icons=true&theme=synthwave)
