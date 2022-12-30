@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/luke396/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/luke396/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluke396=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke396)](https://github.com/anuraghazra/github-readme-stats)
