@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke396&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke396&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/luke396/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/luke396/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@luke396)](https://github.com/anuraghazra/github-readme-stats)
