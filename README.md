@@ -1,3 +1,5 @@
+![Repos I contributed to](https://github-contrib-stats.vercel.app/luke396/contributed.svg)
+
 [![Luke396's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke396&show_icons=true&theme=synthwave&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
