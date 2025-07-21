@@ -1,6 +1,11 @@
 [![Luke396's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke396&show_icons=true&theme=synthwave&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
