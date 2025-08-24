@@ -3,10 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 51 mins   ███████████████████▓░░░░░   78.06 %
-Python       1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-Vim Script   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Markdown     8 hrs           █████████████████████████   99.48 %
+Vim Script   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
