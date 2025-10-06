@@ -5,11 +5,7 @@ My time investment in the past seven days
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 51 mins   ███████████████████▒░░░░░   77.26 %
-Python       1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-CSV          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Text         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown   7 hrs 36 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
