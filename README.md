@@ -3,11 +3,11 @@ My time investment in the past seven days
 <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 5 mins   ███████████░░░░░░░░░░░░░░   43.41 %
-Markdown     8 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   32.89 %
-TeX          2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-JSON         2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-TOML         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Python       10 hrs 11 mins  ███████████░░░░░░░░░░░░░░   43.74 %
+Markdown     8 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.09 %
+TeX          2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+JSON         1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+TOML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
